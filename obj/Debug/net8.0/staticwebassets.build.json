@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cEiLEacjdbS1xFp8EVSfUqUkcGrBY76wn5h56KlZIIc=",
+  "Source": "SmartBookingApi",
+  "BasePath": "_content/SmartBookingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

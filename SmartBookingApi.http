@@ -1,0 +1,6 @@
+@SmartBookingApi_HostAddress = http://localhost:5121
+
+GET {{SmartBookingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
